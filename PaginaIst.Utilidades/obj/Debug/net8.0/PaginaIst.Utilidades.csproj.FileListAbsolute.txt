@@ -1,0 +1,11 @@
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Utilidades\bin\Debug\net8.0\PaginaIst.Utilidades.deps.json
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Utilidades\bin\Debug\net8.0\PaginaIst.Utilidades.dll
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Utilidades\bin\Debug\net8.0\PaginaIst.Utilidades.pdb
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Utilidades\obj\Debug\net8.0\PaginaIst.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Utilidades\obj\Debug\net8.0\PaginaIst.Utilidades.AssemblyInfoInputs.cache
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Utilidades\obj\Debug\net8.0\PaginaIst.Utilidades.AssemblyInfo.cs
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Utilidades\obj\Debug\net8.0\PaginaIst.Utilidades.csproj.CoreCompileInputs.cache
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Utilidades\obj\Debug\net8.0\PaginaIst.Utilidades.dll
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Utilidades\obj\Debug\net8.0\refint\PaginaIst.Utilidades.dll
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Utilidades\obj\Debug\net8.0\PaginaIst.Utilidades.pdb
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Utilidades\obj\Debug\net8.0\ref\PaginaIst.Utilidades.dll

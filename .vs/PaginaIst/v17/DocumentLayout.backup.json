@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pagina\\PaginaIst\\PaginaIst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D949AC0-CBA8-4384-BCA6-3F86FCDC5554}|PaginaIst\\PaginaIst.csproj|d:\\pagina\\paginaist\\paginaist\\paginaist\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D949AC0-CBA8-4384-BCA6-3F86FCDC5554}|PaginaIst\\PaginaIst.csproj|solutionrelative:paginaist\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5B38AB-EEAD-46FE-BCC4-D94FE6C0246C}|PaginaIst.AccesoDatos\\PaginaIst.AccesoDatos.csproj|d:\\pagina\\paginaist\\paginaist\\paginaist.accesodatos\\data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5B38AB-EEAD-46FE-BCC4-D94FE6C0246C}|PaginaIst.AccesoDatos\\PaginaIst.AccesoDatos.csproj|solutionrelative:paginaist.accesodatos\\data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5B38AB-EEAD-46FE-BCC4-D94FE6C0246C}|PaginaIst.AccesoDatos\\PaginaIst.AccesoDatos.csproj|d:\\pagina\\paginaist\\paginaist\\paginaist.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5B38AB-EEAD-46FE-BCC4-D94FE6C0246C}|PaginaIst.AccesoDatos\\PaginaIst.AccesoDatos.csproj|solutionrelative:paginaist.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 200,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Pagina\\PaginaIst\\PaginaIst\\PaginaIst.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PaginaIst.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Pagina\\PaginaIst\\PaginaIst\\PaginaIst.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PaginaIst.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA4wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:08:21.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContenedorTrabajo.cs",
+              "DocumentMoniker": "D:\\Pagina\\PaginaIst\\PaginaIst\\PaginaIst.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "RelativeDocumentMoniker": "PaginaIst.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "ToolTip": "D:\\Pagina\\PaginaIst\\PaginaIst\\PaginaIst.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "RelativeToolTip": "PaginaIst.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:51:26.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Pagina\\PaginaIst\\PaginaIst\\PaginaIst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PaginaIst\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Pagina\\PaginaIst\\PaginaIst\\PaginaIst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PaginaIst\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDYAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T17:09:30.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

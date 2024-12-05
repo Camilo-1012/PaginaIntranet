@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PaginaIst.Models/1.0.0": {
+        "runtime": {
+          "PaginaIst.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PaginaIst.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
