@@ -1,0 +1,17 @@
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.AccesoDatos\bin\Debug\net8.0\PaginaIst.AccesoDatos.deps.json
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.AccesoDatos\bin\Debug\net8.0\PaginaIst.AccesoDatos.runtimeconfig.json
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.AccesoDatos\bin\Debug\net8.0\PaginaIst.AccesoDatos.dll
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.AccesoDatos\bin\Debug\net8.0\PaginaIst.AccesoDatos.pdb
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.AccesoDatos\bin\Debug\net8.0\PaginaIst.Models.dll
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.AccesoDatos\bin\Debug\net8.0\PaginaIst.Models.pdb
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.AccesoDatos\obj\Debug\net8.0\PaginaIst.AccesoDatos.csproj.AssemblyReference.cache
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.AccesoDatos\obj\Debug\net8.0\PaginaIst.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.AccesoDatos\obj\Debug\net8.0\PaginaIst.AccesoDatos.AssemblyInfoInputs.cache
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.AccesoDatos\obj\Debug\net8.0\PaginaIst.AccesoDatos.AssemblyInfo.cs
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.AccesoDatos\obj\Debug\net8.0\PaginaIst.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.AccesoDatos\obj\Debug\net8.0\PaginaIs.A8AA080D.Up2Date
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.AccesoDatos\obj\Debug\net8.0\PaginaIst.AccesoDatos.dll
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.AccesoDatos\obj\Debug\net8.0\refint\PaginaIst.AccesoDatos.dll
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.AccesoDatos\obj\Debug\net8.0\PaginaIst.AccesoDatos.pdb
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.AccesoDatos\obj\Debug\net8.0\PaginaIst.AccesoDatos.genruntimeconfig.cache
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.AccesoDatos\obj\Debug\net8.0\ref\PaginaIst.AccesoDatos.dll

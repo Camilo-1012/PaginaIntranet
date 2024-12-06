@@ -1,0 +1,11 @@
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Models\bin\Debug\net8.0\PaginaIst.Models.deps.json
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Models\bin\Debug\net8.0\PaginaIst.Models.dll
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Models\bin\Debug\net8.0\PaginaIst.Models.pdb
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Models\obj\Debug\net8.0\PaginaIst.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Models\obj\Debug\net8.0\PaginaIst.Models.AssemblyInfoInputs.cache
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Models\obj\Debug\net8.0\PaginaIst.Models.AssemblyInfo.cs
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Models\obj\Debug\net8.0\PaginaIst.Models.csproj.CoreCompileInputs.cache
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Models\obj\Debug\net8.0\PaginaIst.Models.dll
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Models\obj\Debug\net8.0\refint\PaginaIst.Models.dll
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Models\obj\Debug\net8.0\PaginaIst.Models.pdb
+D:\Pagina\PaginaIst\PaginaIst\PaginaIst.Models\obj\Debug\net8.0\ref\PaginaIst.Models.dll
